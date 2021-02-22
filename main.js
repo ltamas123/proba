@@ -1,1 +1,1 @@
-console,log('fdsdfas');
+console.log('fdsdfas');
